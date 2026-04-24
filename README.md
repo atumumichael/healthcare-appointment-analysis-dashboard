@@ -24,8 +24,7 @@ To reduce missed appointments and improve hospital efficiency.
 - Some neighborhoods had higher appointment volume
 
 ## 📸 Dashboard Preview
-![Dashboard]([images/dashboard.png](https://github.com/atumumichael/healthcare-appointment-analysis-dashboard/blob/a95ac51b8a188482d0767337ef725d9647055f05/healthcare-dashboard/dashboard.png.png))
-
+![Dashboard]healthcare-dashboard/dashboard.png.png
 ## 💡 What I Learned
 - Data cleaning
 - Data visualization
